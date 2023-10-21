@@ -1,0 +1,4 @@
+touch server.js
+npm init -y
+npm install express
+npm install mysql
