@@ -1,4 +1,5 @@
 touch server.js
 npm init -y
+npm install serve-index
 npm install express
-npm install mysql
+npm install mysql2
