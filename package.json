@@ -2,7 +2,7 @@
   "name": "nodejsdigitalocean",
   "version": "1.0.0",
   "type": "module",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "dev": "npx nodemon app.js"
   },
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
     "express": "^5.0.0-beta.1",
     "mysql2": "^3.6.2",
     "serve-index": "^1.9.1"
